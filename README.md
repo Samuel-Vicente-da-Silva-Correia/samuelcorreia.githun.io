@@ -1,2 +1,2 @@
-# samuelcorreia.githun.io
+# samuelcorreia.github.io
 Curriculo do Jornada Dev
